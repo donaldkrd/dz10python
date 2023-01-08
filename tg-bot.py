@@ -10,7 +10,7 @@ def welcome(message):
     markup = telebot.types.ReplyKeyboardMarkup(resize_keyboard=True)
 
     item1 = telebot.types.KeyboardButton('Рандомное число до 100')
-    item2 = telebot.types.KeyboardButton('Кинуть кость')
+    item2 = telebot.types.KeyboardButton('Кинуть кубик')
     item3 = telebot.types.KeyboardButton('Да или Нет')
 
     markup.add(item1, item2, item3)
