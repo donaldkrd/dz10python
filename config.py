@@ -1,1 +1,1 @@
-TOKEN = '5644307908:AAHbtFX0mQwUqqrJz8KGniS_EOITwr_np4A'
+TOKEN = 'пук'
